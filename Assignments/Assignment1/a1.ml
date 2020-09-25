@@ -1,6 +1,6 @@
 (*** CSI 3120 Assignment 1 ***)
 (*** Michelle Paradis ***)
-(*** 300007297 ***)
+(*** N/A ***)
 (*** Sketch.sh ***)
 (* If you use the version available from the lab machines via VCL, the
    version is 4.05.0 ***)
